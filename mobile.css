@@ -1,0 +1,45 @@
+@media screen and (max-width:834px){
+
+.rodape{ 
+    align-items: center;
+    border-radius: 10px;
+    background: #444 ;
+    color: #fff;
+    display: flex;
+    flex-direction:row;
+    margin-top: 10px ;
+    padding: 1%;
+  }
+.icons ion-icon{
+    align-items: center;
+    color: #55f;
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+  }
+  
+ .icons ion-icon:hover{
+    color: #93f;
+  }
+    
+}
+
+@media screen and (max-width:388px){
+
+.rodape h3{
+    align-items: center;
+    font-size: 12px;
+  }
+}
+
+.icons ion-icon{
+    align-items: center;
+    color: #55f;
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+  }
+  
+.icons ion-icon:hover{
+    color: #93f;
+  }
